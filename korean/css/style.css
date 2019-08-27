@@ -1577,3 +1577,7 @@ h6 {
   font-size: 30px;
   font-weight: bold;
 }
+
+.img-fluid{
+  height: 255px !important;
+}
