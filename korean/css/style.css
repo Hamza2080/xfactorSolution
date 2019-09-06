@@ -1581,3 +1581,15 @@ h6 {
 .img-fluid{
   height: 255px !important;
 }
+
+.lang {
+  margin : 0px 20px;
+  padding: 5px 10px;
+  border : 1px solid lightgrey;
+  cursor: pointer;
+}
+
+.lang:hover {
+  background : 1px solid lightgrey;
+  color:#1bb1dc;
+}
